@@ -23,7 +23,7 @@ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #333;
+    background-color: #9f9797;
 }
 
 nav ul li {
@@ -38,7 +38,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #555;
+    background-color: #8a8484;
 }
 
 /* Header styles */
@@ -80,7 +80,7 @@ header p {
 }
 
 .project h2 {
-    color: #333;
+    color: #ccc; /* Light grey color */
     font-size: 24px;
     margin-bottom: 10px;
 }
@@ -123,10 +123,4 @@ header p {
 h1, .lead {
     font-family: 'Roboto', sans-serif; /* Use Roboto font */
     /* Add any additional styling for headers here */
-}
-  /* Custom CSS for image */
-  .profile-image {
-    width: 12.5%; /* 1/8th of the original width */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 55%; /* Make the image round */
 }
